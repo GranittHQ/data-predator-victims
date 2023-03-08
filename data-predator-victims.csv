@@ -1,0 +1,38 @@
+name,code_name,role,organization,occurred,disclosed,disclosed_by,forensics_by,apple_warning,device_type,attack_attempted,attack_successful,attack_vector,exploit_name,first_activity,last_activity,operator,sources
+Ayman Nour,,Politician,Union of the Egyptian National Forces,2021,2021,Citizen Lab,Citizen Lab,FALSE,iPhone,,TRUE,Link via WhatsApp,,2021-06-22,2021-06-22,Egypt,https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
+Anonymous #1,,Journalist,Egyptian living in exile,2021,2021,Citizen Lab,Citizen Lab,FALSE,iPhone,,TRUE,Link via WhatsApp,,2021-06,2021-06,Egypt,https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
+Thanasis Koukakis,,Journalist,CNN Greece,2021,2022,Inside Story,Citizen Lab,FALSE,iPhone,,TRUE,SMS,,2021-07-12,2021-09-24,Greece,https://insidestory.gr/article/poios-parakoloythoyse-kinito-toy-dimosiografoy-thanasi-koykaki
+Nikos Androulakis,,Politician,Member of the European Parliament for Greece,2021,2022,Documento,CERT-EU,FALSE,iPhone,TRUE,,SMS,,2021-09-21,2021-09-21,Greece,https://www.documentonews.gr/article/minytiria-anafora-androylaki-kataggellei-apopeira-pagideysis-toy-kinitoy-toy-me-to-logismiko-predator/; https://www.nytimes.com/2022/08/12/world/europe/greece-surveillance-europe-kyriakos-mitsotakis.html
+Christos Spirtzis,,Politician,Former Minister of Infrastructure and Transport ,2021,2022,Kathimerini,,FALSE,,TRUE,,SMS,,2021-11-15,2021-11-19,Greece,https://www.kathimerini.gr/politics/562036156/parakoloythiseis-ichni-predator-sto-tilefono-toy-chr-spirtzi/
+EYP employee #1,,Staff,National Intelligence Service in Greece,2021,2022,Ef.Syn,,FALSE,,TRUE,,SMS,,2021-11-23,2021-11-23,Greece,https://www.efsyn.gr/politiki/358109_sto-stohastro-oi-mi-arestoi
+EYP employee #2,,Staff,National Intelligence Service in Greece,2021,2022,Ef.Syn,,FALSE,,TRUE,,SMS,,2021-11,2021-11,Greece,https://www.efsyn.gr/politiki/358109_sto-stohastro-oi-mi-arestoi
+Adonis Samaras,,Politician,Former prime minister of Greece,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Mixhalis Chrysochoidis,,Politician,Former minister for citizen protection,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Nikos Dendias,,Politician,Minister for foreign affairs,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Olga Gerobasili,,Politician,Member of the Hellenic Parliament,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Adonis Georgiadis,,Politician,Minister of development and investment,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Eugenia Manolidou,,Family,Wife of Adonis Georgiadis,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Vasilis Kikilias,,Politician,Minister for tourism,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Jenny Balatsinou,,Family,Wife of Vasilis Kikilias,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Olga Kefalogianni,,Politician,New Democracy,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Alexis Papahelas,,Journalist,Kathimerini,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Lakis Lazopoulos,,Celebrity,,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Alexandros Diakopoulos,,Military,National Security Advisor of Greece,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Nikos Chardalias,,Politician,Deputy Minister of National Defence,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Christos Staikouras,,Politician,Minister for finance,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Kostis Hatzidakis,,Politician,Minister for labor and social affairs,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Popi Kalaitzi,,Family,Wife of Kostis Hatzidakis,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Aristotelia Peloni,,Journalist,Spokesperson of the Hellenic Republic,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Giorgos Patoulis,,Politician,Regional Governor of Attica,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Marina Patoulis,,Family,Wife of Giorgos Patoulis,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Dimitris Avramopoulos,,Politician,New Democracy,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Alexis Patelis,,Politician,Chief economic adviser,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Thodoros Karipidis,,Business,Owner of football club Aris Thessaloniki,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Irini Karipidi,,Family,Wife of Thodoros Karipidis,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Yiannis Kourtakis,,Journalist,Parapolitika,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Panos Kyriakopoulos,,Business,Cambridge Finance ,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Panagiotis Bomis,,Business,Greek Online Publishers Association,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Panagiotis Arkoumaneas,,Business,PwC Greece,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Eva Antonopoulou,,Journalist,Skai TV,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Ioannis Rachovitsas,,Business,Former deputy chief of the Hellenic Police,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
+Antonis Dellatolas,,Journalist,To Pontiki,,2022,Documento,,FALSE,,,TRUE,,,,,Greece,https://greekreporter.com/2022/11/06/wiretapping-scandal-greece/
